@@ -15,7 +15,7 @@ that leverage the advantages of Bayesian statistics and resampling
 techniques.
 
 I am a founding member of [Katilingban](https://katilingban.io), a
-collective of public health and nutrition experts and practitioners
+collective of public health and nutrition experts and practitioners,
 leading the development and implementation of the strategic direction of
 the collective and heading its analytics and software development
 services unit. I am currently part of the [Oxford COVID-19 Modelling
